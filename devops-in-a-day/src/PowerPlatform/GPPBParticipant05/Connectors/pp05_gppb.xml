@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <connectorid>a0a90fc5-cbf9-4f8e-9b06-742bf65932c6</connectorid>
+  <description>Custom Connector for Global Power Platform Bootcamp</description>
+  <displayname>GPPB</displayname>
+  <iconbrandcolor>#007ee5</iconbrandcolor>
+  <name>pp05_gppb</name>
+  <connectortype>1</connectortype>
+  <openapidefinition>/Connector/pp05_gppb_openapidefinition.json</openapidefinition>
+  <connectionparameters>/Connector/pp05_gppb_connectionparameters.json</connectionparameters>
+  <policytemplateinstances>/Connector/pp05_gppb_policytemplateinstances.json</policytemplateinstances>
+  <iconblob>/Connector/pp05_gppb_iconblob.Png</iconblob>
+</Connector>
