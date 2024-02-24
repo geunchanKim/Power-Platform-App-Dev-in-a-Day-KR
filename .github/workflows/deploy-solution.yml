@@ -6,7 +6,7 @@ on:
       solutionName:
         description: 'Solution Name'
         required: true
-        default: 'GPPB'
+        default: 'GPPBParticipant'
       solutionPath:
         description: 'Solution Path'
         required: true
